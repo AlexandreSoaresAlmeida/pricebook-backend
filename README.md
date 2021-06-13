@@ -1,21 +1,21 @@
-# Projeto BackEnd PriceBook com uso das Tecnologias: Springboot + JPA/Hibernate + REST + Ionic + JWT + S3 + MySQL
+# BackEnd PriceBook Project using Technologies: Springboot + JPA/Hibernate + REST + Ionic + JWT + S3 + MySQL
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-Códigos para o eficácia e eficiência com uso de tecnologias de desenvolvimento de software. 
+Codes for effectiveness and efficiency using software development technologies.
 
-> *“Escolha uma ideia. Faça dessa ideia a sua vida. 
-> Pense nela, sonhe com ela, viva pensando nela. 
-> Deixe cérebro, músculos, nervos, todas as partes
-> do seu corpo serem preenchidas com essa ideia. 
-> Esse é o caminho para o sucesso” – Swami Vivekananda, pensador hindu*
+> *“Choose an idea. Make this idea your life.
+> Think about her, dream about her, live thinking about her.
+> Leave brain, muscles, nerves, all parts
+> of your body being filled with this idea.
+> This is the way to success” – Swami Vivekananda, Hindu thinker*
 
-Tecnologias:
+Technologies:
 
-| Tecnlogias | Descrição |
+| Technologies | Description |
 | ------ | ------ |
-| Springboot | O Spring Boot é um projeto da Spring que veio para facilitar o processo de configuração e publicação de nossas aplicações. A intenção é ter o seu projeto rodando o mais rápido possível e sem complicação. |
-| JPA/Hibernate | Hibernate é o framework para persistência de dados mais utilizado em projetos Java. JPA é a especificação do Java que dita como os frameworks ORM devem ser implementados. |
-| REST | REST, abreviação de "REpresentational State Transfer", não é uma tecnologia, uma biblioteca, e nem tampouco uma arquitetura, mas sim um modelo a ser utilizado para se projetar arquiteturas de software distribuído, baseadas em comunicação via rede.|
-| JWT | O JWT é um padrão (RFC-7519) de mercado que define como transmitir e armazenar objetos JSON de forma compacta e segura entre diferentes aplicações. Os dados nele contidos podem ser validados a qualquer momento pois o token é assinado digitalmente. |
-| S3 | O Amazon Simple Storage Service, conhecido como Amazon S3, é um armazenamento de objetos baseado em web service para armazenar e recuperar qualquer volume de dados. |  
+| Springboot | Spring Boot is a Spring project that came to facilitate the process of configuring and publishing our applications. The intention is to have your project running as fast as possible and without complications. |
+| JPA/Hibernate | Hibernate is the most used data persistence framework in Java projects. JPA is the Java specification that dictates how ORM frameworks should be implemented. |
+| REST | REST, short for "REpresentational State Transfer", is not a technology, a library, nor an architecture, but rather a model to be used to design distributed software architectures, based on network communication.
+| JWT | JWT is an industry standard (RFC-7519) that defines how to transmit and store JSON objects in a compact and secure way between different applications. The data it contains can be validated at any time as the token is digitally signed. |
+| S3 | Amazon Simple Storage Service, known as Amazon S3, is a web-based object storage service for storing and retrieving any volume of data. 
