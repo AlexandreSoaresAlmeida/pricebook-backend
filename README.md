@@ -1,4 +1,4 @@
-# BackEnd PriceBook Project using Technologies: Springboot + JPA/Hibernate + REST + Ionic + JWT + S3 + MySQL
+# BackEnd PriceBook Project using Technologies: Springboot + JPA/Hibernate + REST + JWT + S3 + MySQL
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
